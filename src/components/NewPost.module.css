@@ -26,6 +26,10 @@
   color: #28262c;
 }
 
+.enteredBody {
+  color: cadetblue;
+}
+
 .actions {
   display: flex;
   justify-content: flex-end;
